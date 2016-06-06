@@ -209,6 +209,10 @@ aside li.submenu a{
 	font-size: 8pt;
 }
 
+aside li.submenu2 a{
+    padding: 8px 20px 8px 18px;
+	font-size: 8pt;
+}
 
 
 /* Conteúdo principal */
@@ -246,6 +250,7 @@ article dd {
 	margin-left: 25px;
 	margin-bottom: 1.5em;
 }
+
 /* Rodapé */
 
 footer {
